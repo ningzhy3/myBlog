@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>美食 on Website of Jane Doe</title>
+    <link>https://ningzhy3.github.io/tags/%E7%BE%8E%E9%A3%9F/</link>
+    <description>Recent content in 美食 on Website of Jane Doe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ningzhy3.github.io/tags/%E7%BE%8E%E9%A3%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>蜜糖小鸡翅做法</title>
+      <link>https://ningzhy3.github.io/post/myrecipes/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ningzhy3.github.io/post/myrecipes/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>

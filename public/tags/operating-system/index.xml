@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Operating system on Website of Jane Doe</title>
+    <link>https://ningzhy3.github.io/tags/operating-system/</link>
+    <description>Recent content in Operating system on Website of Jane Doe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ningzhy3.github.io/tags/operating-system/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Process communication</title>
+      <link>https://ningzhy3.github.io/post/process-communication/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ningzhy3.github.io/post/process-communication/</guid>
+      <description>Process communication 1. Interprocess Communication A process is independent if it cannot affect or to be affected by the other process.</description>
+    </item>
+    
+  </channel>
+</rss>
